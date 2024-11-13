@@ -1,0 +1,21 @@
+{
+  "name": "Mi Webapp de Almacén",
+  "short_name": "Almacén",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#083c69",
+  "description": "Una webapp para gestionar el almacén desde el móvil",
+  "icons": [
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0550/6996/6414/files/logo.jpg?v=1644831005",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0550/6996/6414/files/logo.jpg?v=1644831005",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
